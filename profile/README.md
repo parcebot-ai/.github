@@ -11,8 +11,6 @@ ParceBot helps turn those reflections into organized memories, insights, and gen
 
 This organization contains the repositories that power ParceBot, including backend services, mobile applications, and infrastructure.
 
----
-
 ## What we’re building
 
 - A calm, private voice-based journal
