@@ -4,37 +4,33 @@
 
 <h1 align="center">ParceBot AI</h1>
 
-<p align="center">
-  Smart messaging tools for modern businesses.  
-  Powered by AI, made with cariño 🤙  
-</p>
+ParceBot is a voice-first journaling project focused on helping people capture and reflect on their daily experiences using AI.
+
+The idea is simple: once a day, users record a short voice note about their day.  
+ParceBot helps turn those reflections into organized memories, insights, and gentle reminders.
+
+This organization contains the repositories that power ParceBot, including backend services, mobile applications, and infrastructure.
 
 ---
 
-## About ParceBot AI
+## What we’re building
 
-ParceBot AI is a lightweight platform that helps individuals and small businesses
-manage conversations more efficiently using automation and artificial intelligence.
+- A calm, private voice-based journal
+- Tools to organize and revisit personal memories
+- AI-powered summaries and insights
+- A product designed with privacy and simplicity at its core
 
-Our mission is simple:
+## Repositories
 
-- Reduce response time  
-- Keep conversations organized  
-- Suggest helpful replies  
-- Make messaging feel natural and human  
-
-All while keeping things simple, friendly, and easy to use.
-
----
+- **parcebot-backend** — Backend API and processing services
+- **parcebot-ios** — Native iOS application
+- **parcebot-infra** — Infrastructure and Kubernetes configuration
 
 ## Status
 
-Currently in early development (MVP in progress)  
-Private repositories — this profile only shows public information  
-Built with love from Colombia
+ParceBot is in early development.  
+The current focus is building a thoughtful and well-designed MVP.
 
 ---
 
-## Contact
-
-If you'd like to collaborate or learn more, stay tuned — public updates will come soon.
+More details will be shared as the project evolves.
